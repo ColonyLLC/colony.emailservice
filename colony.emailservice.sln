@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colony.emailservice", "colony.emailservice\colony.emailservice.csproj", "{94CB9402-DF47-4A21-A514-7C9EAEAFB3D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CB9402-DF47-4A21-A514-7C9EAEAFB3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CB9402-DF47-4A21-A514-7C9EAEAFB3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CB9402-DF47-4A21-A514-7C9EAEAFB3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CB9402-DF47-4A21-A514-7C9EAEAFB3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CE9EC45-092C-48C8-8C93-0AC3F3BF3342}
+	EndGlobalSection
+EndGlobal
